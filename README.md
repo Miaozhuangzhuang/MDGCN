@@ -1,5 +1,5 @@
 # MDGCN
-Official PyTorch Implementation of Multi-Level Dynamic Graph Convolutional Networks for Weakly Supervised Crowd Counting, Accepted by TITS 2023.
+Official PyTorch Implementation of Multi-Level Dynamic Graph Convolutional Networks for Weakly Supervised Crowd Counting, .
 ![image](MDGCN.png)
 
 ## Training
@@ -12,9 +12,12 @@ If you find this project is useful for your research, please cite:
 @article{liang2022transcrowd,
   title={Multi-Level Dynamic Graph Convolutional Networks for Weakly Supervised Crowd Counting},
   author={Zhuangzhuang Miao and Yong Zhang and Hao Ren and Yongli Hu and Baocai Yin},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
+  journal={},
   year={2023},
-  publisher={IEEE}
+  publisher={}
 }
 ```
+
+## Acknowlegement
+We sincerely thank the authors of [TransCrowd](https://github.com/dk-liang/TransCrowd) for open sourcing their methods.
 
