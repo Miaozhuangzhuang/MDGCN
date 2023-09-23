@@ -9,7 +9,7 @@ Official PyTorch Implementation of Multi-Level Dynamic Graph Convolutional Netwo
 ## Citation
 If you find this project is useful for your research, please cite:
 ```
-@article{liang2022transcrowd,
+@article{miao2023mdgcn,
   title={Multi-Level Dynamic Graph Convolutional Networks for Weakly Supervised Crowd Counting},
   author={Zhuangzhuang Miao and Yong Zhang and Hao Ren and Yongli Hu and Baocai Yin},
   journal={},
