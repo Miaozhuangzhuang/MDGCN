@@ -23,6 +23,6 @@ If you find this project is useful for your research, please cite:
 ```
 
 ## Acknowlegement
-We sincerely thank the authors of [TransCrowd](https://github.com/dk-liang/TransCrowd) for open sourcing their methods.
-We are very grateful for [Awesome-Crowd-Counting's](https://github.com/gjy3035/Awesome-Crowd-Counting) contribution to the field of crowd counting!
+1. We sincerely thank the authors of [TransCrowd](https://github.com/dk-liang/TransCrowd) for open sourcing their methods.
+2. We are very grateful for [Awesome-Crowd-Counting's](https://github.com/gjy3035/Awesome-Crowd-Counting) contribution to the field of crowd counting!
 
