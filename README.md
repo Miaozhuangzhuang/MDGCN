@@ -13,13 +13,15 @@ Crowd counting is very important in many fields such as public safety, urban pla
 ## Citation
 If you find this project is useful for your research, please cite:
 ```
-@article{miao2023mdgcn,
-  title={Multi-Level Dynamic Graph Convolutional Networks for Weakly Supervised Crowd Counting},
-  author={Zhuangzhuang Miao and Yong Zhang and Hao Ren and Yongli Hu and Baocai Yin},
-  journal={},
+@ARTICLE{10311083,
+  author={Miao, Zhuangzhuang and Zhang, Yong and Ren, Hao and Hu, Yongli and Yin, Baocai},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Multi-Level Dynamic Graph Convolutional Networks for Weakly Supervised Crowd Counting}, 
   year={2023},
-  publisher={}
-}
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TITS.2023.3327698}}
 ```
 
 ## Acknowlegement
